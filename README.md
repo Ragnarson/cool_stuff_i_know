@@ -10,3 +10,7 @@ If you think you know something extraordinary, you want to display your
 achievements or you want simply to show a good solutions please write here a
 [Markdown document](https://help.github.com/articles/github-flavored-markdown/)
 and in a few words/sentences describe it.
+
+## Other interesting stuff
+
+ * https://github.com/bayandin/awesome-awesomeness
